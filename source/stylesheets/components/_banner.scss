@@ -15,6 +15,14 @@
 .banner p {
   font-size: 25px;
   font-weight: lighter;
-  color: rgba(255, 255, 255, 0.8);
+  color: $yellow;
   margin-bottom: 50px;
+}
+
+.banner a {
+  color: $red;
+}
+
+.banner a:hover {
+  color: $blue;
 }

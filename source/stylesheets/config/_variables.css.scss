@@ -2,9 +2,9 @@
  * Fonts
  * ------------------------------------- */
 // Google fonts
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500");
-$base-font: "Open Sans", "Helvetica", "sans-serif";
-$header-font: "Raleway", "Helvetica", "sans-serif";
+@import url("https://fonts.googleapis.com/css?family=Pontano+Sans|Poppins");
+$base-font:'Poppins', sans-serif;
+$header-font:'Pontano Sans', sans-serif;
 
 // Local fonts (uncomment following lines)
 // @font-face {
@@ -24,12 +24,12 @@ $base-height: 1.4;
  * Colors
  * ------------------------------------- */
 // Scheme
-$brand-color: #D23333;
+$brand-color: #04677D;
 
-$red: #EE5F5B;
-$blue: #469AE0;
-$yellow: #FDB631;
-$orange: #E67E22;
+$red: #C4356C;
+$blue: #04677D;
+$yellow: #FEC300;
+$orange: #D85320;
 $green: #32B796;
 
 // Gray scale
